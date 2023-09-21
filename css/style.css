@@ -1,0 +1,101 @@
+.firsttitle{
+    color: deeppink;
+    text-align: center;
+    padding: 70px;
+    font-family: 'Lilita One', cursive;
+}
+
+.p1{
+    font-size: 23px;
+    color: black;
+    text-align: center;
+    font-family: 'Lilita One', cursive;
+    margin-bottom: 40px;
+}
+
+.c1{
+    font-family: 'Lilita One', cursive;
+    
+    
+}
+
+.q11{
+    vertical-align: middle;
+}
+
+.q1{
+    color: white;
+    background-color: black;
+    contain: content;
+    width: 18%;
+    box-shadow: 20px;
+    float: left;
+    margin-right: 50px;
+
+
+}
+
+.m1{
+    float: left;
+    margin-right: 30px;
+    
+}
+
+.q2{
+    color: white;
+    background-color: black;
+    contain: content;
+    width: 18%;
+    box-shadow: 5px;
+    margin-top: 30px;
+    float:;
+}
+
+.f1{
+    float: left;
+    margin-right: 30px;    
+}
+
+.c2{
+    font-family: 'Lilita One', cursive;
+    margin: auto;
+    
+    
+}
+
+.q3{
+    color: white;
+    background-color: black;
+    contain: content;
+    width: 18%;
+    box-shadow: 5px;
+}
+
+.f2{
+    float: left;
+    margin-right: 30px;    
+}
+
+.q4{
+    color: white;
+    background-color: black;
+    contain: content;
+    width: 18%;
+    box-shadow: 5px;
+    margin-top: 30px;
+}
+
+.m2{
+    float: left;
+    margin-right: 30px;    
+}
+
+
+
+
+.q2{
+    margin-top: 30px;
+
+}
+
+
